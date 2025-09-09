@@ -55,10 +55,9 @@ src/main/java/com/portfolio/tasks/
    git clone https://github.com/ays78/task-management-api.git
 
 2. **Navigate to the project folder**:
-```bash
+   ```bash
 cd task-management-api
 
 3. **Build and run the application:**:
 ```bash
 mvn spring-boot:run
-

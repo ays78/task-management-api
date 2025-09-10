@@ -56,8 +56,18 @@ src/main/java/com/portfolio/tasks/
 
 2. **Navigate to the project folder**:
    ```bash
-cd task-management-api
+   cd task-management-api
 
 3. **Build and run the application:**:
-```bash
-mvn spring-boot:run
+   ```bash
+   mvn spring-boot:run
+
+4. **Access API documentation at:**:
+   ```bash
+   http://localhost:8080/swagger-ui.html
+
+🧪 Tests
+Run all tests:
+   ```bash
+   mvn test
+
